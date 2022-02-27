@@ -59,3 +59,9 @@ p{
 .text-box {
 border: 2px;
 }
+
+
+.text-box {
+    border-left: 2px solid blue;
+    border-right: 4px solid blue;
+}
