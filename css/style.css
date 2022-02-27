@@ -16,3 +16,15 @@ img{
     height: auto;
     float: left;
 }
+
+p{
+    font-family: sans-serif;
+    }
+    
+    ul{
+        line-height: 40px;
+    }
+    
+    ol{
+        line-height: 40px;
+    }    
