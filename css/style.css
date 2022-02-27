@@ -34,7 +34,7 @@ p{
         font-style: italic;
     }   
 
-    sidebar{
+    .sidebar{
         width: 30px;
         float: right;
     }
@@ -54,4 +54,8 @@ p{
 
 .important{
     color: blue:
+}
+
+.text-box {
+border: 2px;
 }
