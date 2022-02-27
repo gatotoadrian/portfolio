@@ -20,6 +20,7 @@ img{
 p{
     font-family: sans-serif;
     font-size: 30px;
+    important-color: blue:
     }
     
     ul{
@@ -50,3 +51,7 @@ p{
         border-left: 2px solid red;
         border-right: 4px solid blue;
     }
+
+.important{
+    color: blue:
+}
